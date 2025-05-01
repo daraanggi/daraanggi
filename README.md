@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" alt="Funny Fox Animation" width="300">
+  <img src="https://media.giphy.com/media/WrNWPknO6rajK4Yx7n/giphy.gif" alt="Funny Fox Animation" width="200">
 </p>
 
 <h1 align="center">Hi there, I'm Dara Anggi 👋</h1>
